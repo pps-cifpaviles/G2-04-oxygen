@@ -231,6 +231,7 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 
 <!-- Añade aquí tu nombre y tu usuario de GitHub (práctica de GitHub, Parte 2). -->
 Irene Cid
+Joerik Caser joerikcaser https://github.com/joerikcaser
 
 ## Licencia y uso
 
